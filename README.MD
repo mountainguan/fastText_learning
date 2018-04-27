@@ -5,6 +5,10 @@
 
     python3.5
 
+## 依赖工具
+
+    [fastText](https://github.com/facebookresearch/fastText)、[jieba](https://github.com/fxsjy/jieba)
+
 
 ## 目录结构
 
